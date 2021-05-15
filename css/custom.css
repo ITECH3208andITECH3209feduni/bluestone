@@ -1,0 +1,11 @@
+
+/* Authentication pages */
+.main .form{
+  max-width: 800px;
+  margin: 40px auto;
+}
+.main .form .info{
+  color: red;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
